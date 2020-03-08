@@ -22,11 +22,6 @@ and you should get the project running on localhost at port :8080
 
 Here are the screenshots
 
-![enter image description here][1]{:target='_blank'}
-
-
-![enter image description here][2]{:target='_blank'}
-
 
   [1]: https://he-s3.s3.amazonaws.com/media/uploads/b1691e1.png
   [2]: https://he-s3.s3.amazonaws.com/media/uploads/bacb6ec.png
